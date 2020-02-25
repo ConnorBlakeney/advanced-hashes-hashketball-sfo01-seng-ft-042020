@@ -5,7 +5,9 @@ def game_hash
       team_name: "Charlotte Hornets",
       colors: 
       players: [
-        ]
+        {
+          
+        }]
     }
     
     home: {
