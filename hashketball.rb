@@ -104,7 +104,7 @@ def game_hash
 end
 
 def num_points_scored
-  return game_hash.each(:points)
+  return game_hash.each()
 end 
 
 
